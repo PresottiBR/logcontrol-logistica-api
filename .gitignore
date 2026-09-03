@@ -1,0 +1,21 @@
+# Arquivos do macOS
+.DS_Store
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Variáveis de ambiente
+.env
+
+# Pasta duplicada criada durante o desenvolvimento
+/logistica-api/
+
+# Arquivos temporários
+*.log

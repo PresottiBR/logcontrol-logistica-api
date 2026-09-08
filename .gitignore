@@ -13,9 +13,3 @@ venv/
 
 # Variáveis de ambiente
 .env
-
-# Pasta duplicada criada durante o desenvolvimento
-/logistica-api/
-
-# Arquivos temporários
-*.log*.backup
